@@ -1043,6 +1043,6 @@ BEGIN
     RAISE NOTICE 'Functions Created: 3';
     RAISE NOTICE 'Triggers Created: 5';
     RAISE NOTICE '';
-    RAISE NOTICE 'Next Step: Run 02_dml_seed_data.sql';
+    RAISE NOTICE 'Next Step: Run v2__seed_data_dml.sql';
     RAISE NOTICE '========================================';
 END $$;
